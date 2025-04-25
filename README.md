@@ -1,7 +1,6 @@
-# 🏥 Sistema de Cadastro Básico de Pacientes Utilizando Tkinter
+# 🏥 Sistema de Cadastro Básico de Pacientes Utilizando Tkinter Designer
 ## 📋 Visão Geral
-Interface gráfica simples para cadastro de informações básicas de pacientes, desenvolvida com Python e Tkinter.
-
+Interface gráfica simples para cadastro de informações básicas de pacientes, desenvolvida com Python e Tkinter Designer.
 ## ✨ Funcionalidades
 
 ✔️ **Formulário de cadastro** com campos para:
@@ -47,3 +46,5 @@ Interface gráfica simples para cadastro de informações básicas de pacientes,
 
 ## ✨ Como Utilizar?
 - Baixe a pasta build e execute o arquivo "gui.py"
+## ✨ Link do Figma
+<a href="https://www.figma.com/design/k9cryvkoXzMOd7yGTD9Yub/Cadastro-de-Paciente?node-id=10-2&t=VuYHLKaPGGxyFxoE-1" target="_blank">Clique Aqui!</a>
