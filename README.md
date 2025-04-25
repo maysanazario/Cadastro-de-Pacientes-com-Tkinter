@@ -44,3 +44,6 @@ Interface gráfica simples para cadastro de informações básicas de pacientes,
   - Design limpo e funcional
     🖼️ Screenshots do Sistema
 <div align="center"> <h3>📌 Tela de Cadastro</h3> <img src="area-cadastro-vazio.png" alt="Tela principal do sistema" width="600"> <h3>📝 Formulário Preenchido</h3> <img src="area-cadastro-completo.png" alt="Formulário preenchido com dados" width="600"> <h3>✅ Pop-up com os Dados do Paciente</h3> <img src="resultado.png" alt="Pop-up mostrando dados cadastrados" width="400"> </div>
+
+## ✨ Como Utilizar?
+- Baixe a pasta build e execute o arquivo "gui.py"
